@@ -1,0 +1,9 @@
+.form-container {
+    width: 95%;
+    max-width: 1000px;
+}
+
+.form{
+    width: 100%;
+    background: rgba(255, 255, 255, 0.5);
+}
